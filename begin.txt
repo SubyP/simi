@@ -1,0 +1,4 @@
+a=5
+b=2
+Sum=`expr $a +$b`
+echo $Sum
